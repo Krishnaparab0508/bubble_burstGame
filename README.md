@@ -1,6 +1,6 @@
 # bubble_burstGame
 # Introduction
-This project is a dynamic web-based game where users inflate balloons by pressing a pump and make them float. The game includes interactive elements like bursting balloons with a click, animations, and responsive designs. It was developed as part of a task for an internship application.
+This project is a dynamic web-based game where users inflate balloons by pressing a pump and make them float. The game includes interactive elements like bursting balloons with a click, animations.. It was developed as part of a task for an internship application.
 
 # Features
 ## Interactive Pump Animation:
@@ -16,7 +16,7 @@ Balloons can be burst by clicking on them.
 A visual scaling effect simulates the burst before the balloon disappears.
 
 ## Cloud Animations:
-Clouds are dynamically generated and move across the screen to enhance the environment.
+Clouds are dynamically generated across the screen to enhance the environment.
 
 ## Customizable Elements:
 Supports multiple balloon and alphabet image sets for personalized experiences.
@@ -45,7 +45,6 @@ Contains the structure of the game, including pump, balloons, and cloud placehol
 Divides the interface into logical containers.
 2. CSS (style1.css)
 Defines styles for the pump, balloons, and animations.
-Implements responsive behavior using media queries.
 3. JavaScript (game1.js)
 Implements game logic such as:
 Pump press handling.
